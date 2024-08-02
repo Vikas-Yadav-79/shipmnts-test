@@ -97,6 +97,9 @@ GET /scheduled-emails/
 Retrieve details of a specific scheduled email.
 DELETE /scheduled-emails/
 
+![image](https://github.com/user-attachments/assets/f17917ae-3d7a-4c97-87f5-bcdd6be4c1a6)
+
+
 Cancel a scheduled email.
 Frontend Usage
 Schedule an Email:
