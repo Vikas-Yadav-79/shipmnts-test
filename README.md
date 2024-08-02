@@ -70,6 +70,9 @@ POST /schedule-email
 
 Schedule a new email.
 
+![image](https://github.com/user-attachments/assets/7798b687-adf6-494f-8cc8-03eb4e555d3a)
+
+
 Request Body:
 
 {
